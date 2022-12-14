@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://carlosespetia.com/img/blob_trans.png" align="center" style="width: 500px" />
+<img src="http://carlosespetia.com/img/blob_trans_blue.png" align="center" style="width: 500px" />
 </div>  
   
 
