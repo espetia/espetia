@@ -1,96 +1,79 @@
+### <div align="center">Hi there! I'm Carlos Espetia 🧑‍💻</div>
 
-
-### <div align="center">I'm Carlos Espetia 🧑🏻 software developer ⌨️</div>  
-  
-
-- 📈 7 years experiences in develop and maintenance of software.  
-  
-
-- 🏢Currently work at [TCM Group International](https://tcm-int.com/).  
-  
-
-- 🧠I am passionate about software development.  
-  
-
-- 🤖I am specialized in back end.  
-  
-
-- 🏗️More than 15 software products implemented.  
-  
-
-- 🤫My hobby? miniature modeling.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Carlos Espetia" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Carlos Espetia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Carlos Espetia" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Carlos Espetia" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <strong>Senior Software Developer &amp; Innovation Lead | Solutions Architect | Backend Specialist</strong>
 </div>
 
-<br/> 
+<br>
+
+### 🚀 About Me
+
+I'm a Development Lead with 8+ years of experience transforming business ideas into robust, scalable software solutions. My specialty is **backend development** and **systems architecture**, with a clear focus on business process optimization.
+
+- 🏢 Currently, I lead the **Development & Innovation Area at TCM Group**, a company with operations in 14 countries.
+- 🌍 I've successfully managed the full lifecycle of over **25 software projects**, from conception to international deployment.
+- 💡 My passion is automating processes, reducing operational costs, and building platforms that drive strategic business goals.
+- 🎨 In my free time, you'll find me practicing my hobby: **miniature modeling**.
+
+<br>
+
+### 🏆 Key Professional Achievements
+
+My focus isn't just on writing code, but on delivering measurable business results:
+
+- 📈 **8% sales increase** by architecting and developing a Mobile Point-of-Sale (POS) system.
+- 💸 **15% reduction in operational costs** through the strategic digitization of legal forms.
+- ⏱️ **Saved 6 hours of administrative work** per week by automating a company-wide gift voucher system.
+- 🌱 **4 promotions in 8 years** within the same organization, evolving from Technical Support to Area Lead.
+
+<br>
+
+### 💻 My Core Tech Stack
+
+#### Backend & Frameworks
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### Frontend
+<p>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+#### Databases
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+#### Cloud & DevOps
+<p>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</GIt> </p>
+
+<br>
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/CarlosEspetia" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Carlos Espetia LinkedIn" />
+  </a>
+  <a href="https://carlosespetia.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/My_Website-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlJlYWREbWU8L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xODQgOS4yNjFoLTEuODI3Yy0uMjcgMC0uNTQxLjEwOC0uNzU1LjMwOGwtMi4wNTIgMS45NTMtMi4wNTItMS45NTNhMS4wNjcgMS4wNjcgMCAwMC0uNzU1LS4zMDhIMzUuNjM5Yy0uMzMtLjAwNS0uNjU0LjEyMy0uODkuMzU3bC0yLjM5IDIuMjhjLS4yNi4yNDctLjQxNC41ODYtLjQxNC45NDZ2Ny4wOThjMCAuMzQuMTMuNjY1LjM2My45bDIuNTM2IDIuNDJjLjIzOC4yMjguNTUuMzU4Ljg4My4zNTcuMzMzLjAwOC42NTUtLjEyMy44OTMtLjM1OGwyLjUzNi0yLjQyYy4yMzItLjIzLjM2My0uNTU5LjM2My0uOVYxMi44NWMwLS4zNi0uMTU0LS43LS40MTQtLjk0NmwtMi4zOS0yLjI4Yy0uMjM2LS4yMjUtLjU2LS4zNTItLjg5LS4zNTdoLS4wNTN6TTUuNjM4IDEwLjcwOGwyLjI4LTIuMTc4Yy4yMjUtLjIxNS41NC0uMzM4Ljg1NS0uMzM4aDEuNzYxYy4yNyAwIC41NC4xMDguNzU1LjMwOGwyLjA1MiAxLjk1MyAyLjA1Mi0xLjk1M2ExLjA2NyAxLjA2NyAwIDAxLjc1NS0uMzA4aDEuNzYxYy4zMTUtLjAwOS42Mi4xMi44NDUuMzM4bDIuMjggMi4xNzhjLjI2NC4yNTEuNDE0LjYwNi40MTQgLjk4MnY3LjA5OGMwIC4zNC0uMTMuNjY1LS4zNjMuOWwtMi41MzYgMi40MmMtLjIzOC4yMjgtLjU1LjM1OC0uODgzLjM1N2gtLjEwN2MtLjMzMy0uMDEtLjY1NS0uMTQtLjg5My0uMzU4bC0yLjUzNi0yLjQyYy0uMjMyLS4yMy0uMzYzLS41NTktLjM2My0uOVYxMS42OWMwLS4zNzYtLjE1LS43MzItLjQxNC0uOTgyek0xMS45NzcgMEM1LjM2MSAwIDAgNS4zNjEgMCAxMi4wNzdjMCA2LjcwMyA1LjM2MSAxMi4wNzcgMTEuOTc3IDEyLjA3N1MyNC4wNjEgMTguNzggMjQuMDYxIDEyLjA3NyAyNC4wNjEgMCAyMy45NTEgMGgtLjExN3ptMC0uMTE3aC4xMTdjNi43MDMgMCAxMi4wNzcgNS40NyAxMi4wNzcgMTIuMTk0UzE4Ljc4IDI0LjM4MyAxMi4wNzcgMjQuMzgzIDAgMTguOTEzIDAgMTIuMTk0IDUuMjU5LS4xMTcgMTEuODYxLS4xMTdoLjExN3oiLz48L3N2Zz4=" alt="Carlos Espetia Website" />
+  </a>
+</p>
+```
