@@ -69,7 +69,7 @@ My focus isn't just on writing code, but on delivering measurable business resul
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/CarlosEspetia" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-espetia/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Carlos Espetia LinkedIn" />
   </a>
   <a href="https://carlosespetia.com/" target="_blank">
