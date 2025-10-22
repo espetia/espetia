@@ -1,7 +1,4 @@
-<div align="center">
-<img src="http://carlosespetia.com/img/blob_trans_blue.png" align="center" style="width: 500px" />
-</div>  
-  
+
 
 ### <div align="center">I'm Carlos Espetia 🧑🏻 software developer ⌨️</div>  
   
